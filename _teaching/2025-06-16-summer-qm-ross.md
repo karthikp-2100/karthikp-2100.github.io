@@ -5,7 +5,7 @@ type: "Summer Program Course for High Schoolers"
 permalink: /teaching/2025-summer-qm-ross
 venue: "Ross Mathematics Program"
 date: 2025-06-16
-location: "Westerville, USA"
+location: "Westerville, OH, USA"
 ---
 
 Taught an introduction to quantum mechanics for mathematically-gifted high schoolers at the 2025 Ross Mathematics Program in Ohio, emphasizing not topics covered in a traditional course such as a particle in free space, but rather emphasizing the applications of "symmetry" to quantum theory. Notes for the course can be found [here](https://karthikp-2100.github.io/files/2025_04_06_qm_draft.pdf).

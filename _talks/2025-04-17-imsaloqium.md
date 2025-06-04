@@ -8,4 +8,4 @@ date: 2025-04-17
 location: "Aurora, IL, USA"
 ---
 
-Gave an expository talk on general developments in quantum field theory, starting from basic ideas of symmetry, then discussing classical and quantum field theories, then discussing supersymmetry and S-duality, then discussing class S theories, and finally culminating in a brief introduction to my research. 
+Gave an expository talk on general developments in quantum field theory, starting from basic ideas of symmetry, then discussing classical and quantum field theories, then discussing supersymmetry and S-duality, then discussing class S theories, and finally culminating in a brief introduction to my research. Slides can be found [here](http://karthikp-2100.github.io/files/2025_04_17_imsaloqium_slides.pdf).

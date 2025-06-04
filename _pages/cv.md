@@ -11,38 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Naperville North High School, 2022-2023
+* Illinois Mathematics and Science Academy, 2023-Present
 
-Work experience
+Research/Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2022 - Dec 2023: Nuclear Physics Intern 
+  * Beam Alpha Incorporated
+  * Designed, ran, and built nuclear physics experiments, using electronics, physics, and machinery. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sep 2024 - Present: Theoretical Physics Researcher
+  * Illinois Mathematics and Science Academy
+  * Researching 2-group symmetries in A_2n Class S theories under Dr. Anderson Trimm
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2025 - Present: Math Researcher with MIT PRIMES-USA
+  * MIT PRIMES USA / IU-Bloomington
+  * Researching Hopf algebras over the Pansera algebras \( H_{2n^2} \) under Dr. Julia Plavnik
+
+* Jun 2025 - Present: Particle Physics Researcher
+  * Illinois Mathematics and Science Academy
+  * Searching for doubly-charged Higgs bosons with IMSA-CMS under Dr. Anderson Trimm
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
+  Hopefully coming soon...
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -61,4 +54,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Boy Scouts of America
+* President of Hadron (IMSA Science Periodical)
+* Higher Physics Chair for IMSA Physics Club

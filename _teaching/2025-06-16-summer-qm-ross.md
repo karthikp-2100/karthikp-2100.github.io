@@ -4,7 +4,7 @@ collection: teaching
 type: "Summer Program Course for High Schoolers"
 permalink: /teaching/2025-summer-qm-ross
 venue: "Ross Mathematics Program"
-date: 2025-06
+date: 2025-06-16
 location: "Westerville, USA"
 ---
 

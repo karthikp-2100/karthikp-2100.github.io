@@ -228,7 +228,7 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true  
-    permalink: /:collection/:research/
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -291,7 +291,7 @@ defaults:
       path: ""
       type: research
     values:
-      layout: research
+      layout: single
       author_profile: true
       share: true
 

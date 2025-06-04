@@ -1,5 +1,5 @@
 ---
-title: "Finding 2-group symmetries in Twisted \( A_2n \) Class S Theories"
+title: "Finding 2-group symmetries in Twisted A_2n Class S Theories"
 collection: research
 type: "Generalized Symmetries"
 permalink: /research/2-group-symmetries-a2n

@@ -12,8 +12,6 @@ I'm a high school senior at the Illinois Mathematics and Science Academy (IMSA) 
 
 This site is meant to be a collection of my teaching, research, and academic interests, and over time I intend to add notes from classes I take (and classes I teach), research preprints, talks, book talks, blog posts, and more. Feel free to contact me via email for more information on anything on the site.
 
-lol
-
 (Last updated 2025/06/04)
 
 

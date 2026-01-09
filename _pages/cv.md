@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+A formatted and updated (on 1/9/2026) CV can be found **[here](/files/cv_karthik_prasad_01_09_2026.pdf)**.
+
+A web-formatted (and fairly outdated) CV is on this page.
+
 {% include base_path %}
 
 Education
